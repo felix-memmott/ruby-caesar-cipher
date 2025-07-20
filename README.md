@@ -81,6 +81,11 @@ D E F G H I J K L M N O P Q R S T U V W X Y Z A B C
 - `shift_letter(letter, shift_value)` - Helper method for individual character shifting
 - Functional programming approach using `map` for clean, readable code
 
+## AI Usage
+
+I used Anthropic's Claude Code to aid me in writing tests and action various bug fixes. However, the large majority of the code was implemented by myself.
+
+
 ## Historical Note
 
 The Caesar cipher is named after Julius Caesar, who used it in his private correspondence with a shift of 3. This implementation supports any shift value and both encoding and decoding operations.
